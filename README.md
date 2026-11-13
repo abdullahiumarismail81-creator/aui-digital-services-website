@@ -1,2 +1,23 @@
-# aui-digital-services-website
-Professional business website for showcasing digital services, technology solutions, portfolio projects and client contact information.
+# AUI Digital Services Website
+
+Business website for showcasing professional services including:
+
+- NIN Services
+- BVN Services
+- CAC Registration
+- CV Writing
+- LinkedIn Optimization
+- Portfolio Websites
+- Python Projects
+- Data Analysis
+- Machine Learning Solutions
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Author
+
+Abdullahi Umar Ismail
